@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+    height: 92vh;
+    background-color: maroon;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.weather-container {
+    color: white;
+}
+.temp {
+    font-size: 4.5rem;
+    margin-right:5px;
+}
+.time-location {
+    font-size: 2rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;  
+    margin-left: 10px;
+}
+
+.condition {
+    font-size: 1rem;
+    margin-left: 0.6rem;
+}
+nav {
+    height:8vh;
+}
+.navv {
+    display: flex;
+    justify-content:space-around ;
+}
+.search-area {
+    margin-left: 100px;
+    padding: 15px;
+    margin-top: 2px;
+    padding-right: 250px;
+    outline: none;
+    border: none;
+    color: maroon;
+    background-color: transparent;
+    font-size: 15px;
+    border-bottom: 1px solid maroon;
+    
+}
+button {
+    margin-right: 350px;
+    margin-top: 2px;
+    color: white;
+    background-color: maroon;
+    border: none;
+    cursor: pointer;
+    padding: 5px  5px;
+    border-radius: 5px;
+    outline: none;
+}
