@@ -26,7 +26,7 @@ APIs Used
 - https://www.weatherapi.com/ for weather data
 
 Installation and Usage
-1. Clone the repository using git clone https://github.com/your-username/your-repo-name.git
+1. Clone the repository using git clone https://github.com/zaidqureshi008/weatherApp.git
 2. Open the index.html file in a web browser to use the app
 
 Contributing
